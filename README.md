@@ -1,5 +1,24 @@
 ## Hi there 👋
 
+I am **Olesya** and I am a **frontend-developer**!
+
+🔭 **My skills:**
+- JavaScript;
+- TypeScript;
+- React;
+- PHP;
+- Laravel;
+- HTML5;
+- CSS;
+- Pixel Perfect;
+- Adobe Photoshop;
+- Figma;
+- Git/GitHub;
+
+📫 **How to reach me:** 
+- by e-mail: o.yu.vetoshkina@gmail.com
+- by social media: https://t.me/Vetoshkina_Olesya
+
 <!--
 **Olesya1988/Olesya1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
