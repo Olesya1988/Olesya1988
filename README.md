@@ -2,7 +2,7 @@
 
 I am **Olesya** and I am a **frontend-developer**!
 
-🔭 **My skills:**
+:star: **My skills:**
 - JavaScript;
 - TypeScript;
 - React;
@@ -14,6 +14,12 @@ I am **Olesya** and I am a **frontend-developer**!
 - Adobe Photoshop;
 - Figma;
 - Git/GitHub;
+
+:closed_book: **My graduation project**:
+- [Frontend](https://github.com/Olesya1988/cinema__frontend)
+- [Backend](https://github.com/Olesya1988/cinema__backend)
+
+ :page_facing_up: **My certificate of education**: [Certificate](https://netology.ru/backend/api/user/programs/27157/pdf_certificate)
 
 📫 **How to reach me:** 
 - by e-mail: o.yu.vetoshkina@gmail.com
