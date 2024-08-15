@@ -13,13 +13,13 @@ I am **Olesya** and I am a **frontend-developer**!
 - Pixel Perfect;
 - Adobe Photoshop;
 - Figma;
-- Git/GitHub;
+- Git/GitHub.
 
 :closed_book: **My graduation project**:
-- [Frontend](https://github.com/Olesya1988/cinema__frontend)
-- [Backend](https://github.com/Olesya1988/cinema__backend)
+- [frontend](https://github.com/Olesya1988/cinema__frontend)
+- [backend](https://github.com/Olesya1988/cinema__backend)
 
- :page_facing_up: **My certificate of education**: [Certificate](https://netology.ru/backend/api/user/programs/27157/pdf_certificate)
+ :page_facing_up: **My certificate of education**: [certificate](https://netology.ru/backend/api/user/programs/27157/pdf_certificate)
 
 📫 **How to reach me:** 
 - by e-mail: o.yu.vetoshkina@gmail.com
